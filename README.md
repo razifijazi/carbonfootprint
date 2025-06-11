@@ -21,5 +21,4 @@ A simple Python CLI script to analyze the carbon footprint of a website. The pro
 ```bash
 pip install requests rich
 
-```bash
 python3 carbonfootprint.py https://example.com
