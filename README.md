@@ -1,6 +1,5 @@
 # 🌱 Website Carbon Footprint Checker
-
-`carbonfootprint.py` adalah skrip Python sederhana berbasis CLI untuk menganalisis jejak karbon dari sebuah website menggunakan [WebsiteCarbon.com API](https://api.websitecarbon.com/). Hasil analisis ditampilkan dalam format tabel yang menarik menggunakan pustaka `rich`.
+Script python sederhana berbasis CLI untuk menganalisis jejak karbon dari sebuah website. Program ini menampilkan hasil analisis dalam format tabel yang informatif dan mudah dibaca langsung di terminal.
 
 ---
 
